@@ -29,4 +29,5 @@ section#featured-property p {
 }
 section#details div {
   display: block;
+  float: left;
 }
