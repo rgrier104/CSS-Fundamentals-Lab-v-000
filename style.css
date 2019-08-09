@@ -27,3 +27,6 @@ section#featured-property p {
   text-align: center;
   width: 800px;
 }
+section#details div {
+  display: block;
+}
