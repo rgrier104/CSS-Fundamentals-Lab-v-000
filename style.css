@@ -3,6 +3,9 @@ body {
   height: 100%;
   margin: 0;
 }
-h1 nav {
+h1 {
+  text-align: center;
+}
+figure {
   text-align: center;
 }
